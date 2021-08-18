@@ -14,8 +14,8 @@ My biggest challenge was using Flexbox, as it's the first time I've only used it
 
 ## Technologies Used 🧩
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
 * FlexBox
 * Media-queries
