@@ -1,10 +1,10 @@
 # Digital Innovation One - Recriando-pagina-inicial-do-instagram
 
-![Design preview for the Fylo dark theme landing page challenge](./design/desktop-preview.jpg)
+![Design preview for the Fylo dark theme landing page challenge](Assets/images/Preview/screenshot-1.png)
 
 ## WELCOME! 👋
 
-This is a challenge proposed by the website **[Frontend Mentor](https://www.frontendmentor.io)** and this site is great because it helps us improve our **coding skills** with real projects and more varied difficulties. The site gives us the possibility to train any skill or web technology that we want, be it media-querie, grid layout, Jquery, React, etc..
+This is a project proposed by the website **[Digital Innovation One](https://digitalinnovation.one/)** and **[Gabriela Pinheiro](https://www.youtube.com/channel/UCgMbExqiFFPza79dyMsuugw)** this site is great because it helps us improve our **coding skills** with real projects and more varied difficulties. The site gives us the possibility to train any skill or web technology that we want, be it media-querie, grid layout, Jquery, React, etc..
 
 ## The Challenge 🎯
 
