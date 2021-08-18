@@ -17,7 +17,7 @@ My biggest challenge was using Flexbox, as it's the first time I've only used it
 * HTML5
 * CSS3
 * JavaScript
-* FlexBox
+* Flexbox
 * Media-queries
 * Responsive Website
 
