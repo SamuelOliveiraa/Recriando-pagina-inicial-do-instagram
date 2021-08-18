@@ -52,7 +52,7 @@ body{
     min-height: 34rem;
 }
 .instagram-content input{
-    width: 80%;
+    width: 70%;
     padding: 0.7rem 0.2rem;
     margin-bottom: -1.5rem;
     border-radius: 0.2rem;
@@ -139,6 +139,9 @@ body{
     }
     .instagram-content{
         width: 100%;
+    }
+    .instagram-content input{
+        width: 77%;
     }
     .group{
         border: 1px solid transparent;
