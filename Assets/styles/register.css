@@ -51,7 +51,7 @@ body{
     width: 50%;
     min-height: 34rem;
 }
-.instagram-content .group span{
+.instagram-content .group a span{
     color: white;
 }
 .instagram-content input{
