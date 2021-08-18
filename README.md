@@ -17,9 +17,8 @@ In this challenge my biggest difficulty was to implement the smooth scrolling of
 * HTML5
 * CSS3
 * JavaScript
-* Jquery
+* FlexBox
 * Media-queries
-* CSS Grid Layout
 * Responsive Website
 
 ## Access My Resolution 💻
