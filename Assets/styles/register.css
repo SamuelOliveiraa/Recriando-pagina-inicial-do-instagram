@@ -39,7 +39,7 @@ body{
     width: 50%;
 }
 .instagram-phone img{
-    height: 50rem;
+    height: 35rem;
 }
 
 /* INSTAGRAM CONTENT */
@@ -54,11 +54,14 @@ body{
 .instagram-content input{
     width: 70%;
     padding: 0.7rem 0.2rem;
-    margin-bottom: -1.5rem;
+    margin-bottom: 0.3rem;
     border-radius: 0.2rem;
     border: 1px solid lightgray;
     font-size: 0.85rem;
     color: black;
+}
+.instagram-content #tel{
+    margin-top: 1rem;
 }
 .instagram-content input[type="submit"]{
     background-color: #0095f6;
@@ -73,13 +76,14 @@ body{
     cursor: pointer;
 }
 
-.get-the-app{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    padding: 1.3rem 0;
+.facebook-login{
+    width: 70%;
+    background-color: #0095f6;
+    color: white;
+    padding: 8px;
+    border-radius: 4px;
+    margin: 1rem 0;
+    text-align: center;
 }
 
 /* GROUP */
@@ -94,31 +98,21 @@ body{
     border: 1px solid lightgray;
 }
 
+.group .logo{
+    height: 3rem;
+}
+.group .p1{
+    font-size: 13px;
+    font-weight: 600;
+    margin-top: 1rem;
+    width: 70%;
+    text-align: center;
+}
+
 .group:nth-child(1){
     min-height: 22rem;
     margin-bottom: 0.5rem;
     justify-content: space-around;
-}
-
-/* DOWNLOAD */
-.download{
-    display: flex;
-    width: 100%;
-    justify-content: space-evenly;
-    align-items: center;
-    padding: 1rem;
-}
-
-.app-download{
-    height: 3rem;
-    width: 10rem;
-    background-size: cover;
-}
-.app-download:nth-child(1){
-    background-image: url(../images/apple-button.png);
-}
-.app-download:nth-child(2){
-    background-image: url(../images/googleplay-button.png);
 }
 
 /* MEDIA QUERIE */
