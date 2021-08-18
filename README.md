@@ -8,9 +8,9 @@ This is a project of the website **[Digital Innovation One](https://digitalinnov
 
 ## The Challenge 🎯
 
-This challenge is to reproduce the **Instagram login page** as close as possible to the original design.
+This challenge is to reproduce the **Instagram Login Page** as close as possible to the original design.
 
-In this challenge my biggest difficulty was to implement the smooth scrolling of the page with pure JavaScript, in no way I was able to make it work, with that I had to use the Jquery library and only with it I was able to make the scrolling work the way I wanted.The email validation I was able to do only with pure JavaScript.
+My biggest challenge was using Flexbox, as it's the first time I've only used it on my sites. But I was able to understand how to use it and now making websites is even easier!!
 
 ## Technologies Used 🧩
 
