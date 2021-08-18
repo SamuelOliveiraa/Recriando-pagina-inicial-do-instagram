@@ -10,7 +10,7 @@ This is a project of the website **[Digital Innovation One](https://digitalinnov
 
 This challenge is to reproduce the **Instagram Login Page** as close as possible to the original design.
 
-My biggest challenge was using Flexbox, as it's the first time I've only used it on my sites. But I was able to understand how to use it and now making websites is even easier!!
+My biggest challenge was using Flexbox, as it's the first time I' only used it on my sites. But I was able to understand how to use it and now making websites is even easier!!
 
 ## Technologies Used 🧩
 
