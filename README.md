@@ -23,4 +23,4 @@ My biggest challenge was using Flexbox, as it's the first time I've only used it
 
 ## Access My Resolution 💻
 
-   I hosted this challenge with the help of GitHub Pages, to access my resolution of this challenge [Click Here](https://samueloliveiraa.github.io/fylo-dark-theme-landing-page-master/)
+I hosted this challenge with the help of GitHub Pages, to access my resolution of this challenge [Click Here](https://samueloliveiraa.github.io/Recriando-pagina-inicial-do-instagram/)
