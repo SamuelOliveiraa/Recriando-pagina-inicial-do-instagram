@@ -66,12 +66,21 @@ body{
 .instagram-content #tel{
     margin-top: 1rem;
 }
-.instagram-content input[type="submit"]{
+.instagram-content input[type="button"]{
     background-color: #0095f6;
     border: 1px solid #0095f6;
     padding: 0.5rem;
     cursor: pointer;
     color: white;
+}
+.instagram-content .error{
+    display: none;
+    width: 70%;
+    margin-top: 0.1rem;
+    margin-bottom: 0.5rem;
+    font-size: 0.8rem;
+    text-align: left;
+    color: rgb(238, 98, 98);
 }
 
 .link-blue{

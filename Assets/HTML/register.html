@@ -15,7 +15,7 @@
     <!--STYLE-->
     <link rel="stylesheet" href="../styles/register.css">
 </head>
-<body>
+<body onload="load()">
     <div class="instagram-wrapper">
         <div class="instagram-phone">
             <img src="../images/4-phones.png" alt="Instagram Celular">
@@ -41,15 +41,31 @@
                 </span>
 
             
-                <input type="number" name="tel" id="tel" placeholder="Número de celular">
+                <input type="tel" name="tel" id="tel" placeholder="Número de celular" maxlength="11">
+
+                <p id="error-password1" class="error">
+                    Digite um número de telefone válido
+                </p>
 
                 <input type="text" name="fullName" id="fullName" placeholder="Nome completo">
 
+                <p id="error-password2" class="error">
+                    Digite um nome válido
+                </p>
+
                 <input type="text" name="name" id="name" placeholder="Nome de usuario">
+
+                <p id="error-password3" class="error">
+                    Digite um nome de usuário válido
+                </p>
 
                 <input type="password" name="password" id="password" placeholder="Senha">
 
-                <input type="submit" value="Seguinte">
+                <p id="error-password4" class="error">
+                    Senha deve ter no mínimo 8 letras.
+                </p>
+
+                <input type="button" value="Seguinte" id="btn">
             
 
                 <p class="p1">
@@ -64,5 +80,7 @@
             </div>
         </div>
     </div>
+
+    <script src="../JS/register.js"></script>
 </body>
 </html>

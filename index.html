@@ -12,7 +12,7 @@
     <!--STYLE-->
     <link rel="stylesheet" href="Assets/styles/style.css">
 </head>
-<body>
+<body onload="load()">
     <div class="instagram-wrapper">
         <div class="instagram-phone">
             <img src="Assets/images/instagram-celular.png" alt="Instagram Celular">
@@ -22,11 +22,19 @@
             <form class="group" action="Assets/HTML/logged.html">
                 <a href="https://www.instagram.com/" target="_blank"><img src="Assets/images/instagram-logo.png" alt="Instagram Logo" class="logo"></a>
 
-               <input type="email" name="email" id="email" placeholder="Nome de usuario, telefone ou email">
+               <input type="email" name="email" id="email" placeholder="Nome de usuario ou email">
 
-               <input type="password" name="password" id="password" placeholder="Senha">
+                <p id="error-password1" class="error">
+                    Digite um nome de úsuario válido
+                </p>
 
-               <input type="submit" value="Entrar">
+               <input type="password" name="password" id="password" placeholder="Senha" maxlength="8">
+
+               <p id="error-password2" class="error">
+                   Senha deve ter no mínimo 8 letras.
+               </p>
+
+               <input type="button" value="Entrar" id="button">
 
                <span class="link-blue">
                    <a href="#" target="_blank">Esqueceu a senha?</a>
@@ -57,5 +65,7 @@
             </div>
         </div>
     </div>
+
+    <script src="Assets/JS/script.js"></script>
 </body>
 </html>

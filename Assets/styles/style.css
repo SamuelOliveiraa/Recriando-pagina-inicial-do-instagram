@@ -54,23 +54,32 @@ body{
 .instagram-content input{
     width: 70%;
     padding: 0.7rem 0.2rem;
-    margin-bottom: -1.5rem;
+    margin-bottom: -0.8rem;
     border-radius: 0.2rem;
     border: 1px solid lightgray;
     font-size: 0.85rem;
     color: black;
 }
-.instagram-content input[type="submit"]{
+.instagram-content input[type="button"]{
     background-color: #0095f6;
     border: 1px solid #0095f6;
     padding: 0.5rem;
     cursor: pointer;
     color: white;
 }
+.instagram-content .error{
+    display: none;
+    width: 70%;
+    margin-top: 0.3rem;
+    font-size: 0.8rem;
+    text-align: left;
+    color: rgb(238, 98, 98);
+}
 
 .link-blue{
     color: #0095f6;
     cursor: pointer;
+    margin-top: 1rem;
 }
 
 .get-the-app{
@@ -98,6 +107,7 @@ body{
     min-height: 22rem;
     margin-bottom: 0.5rem;
     justify-content: space-around;
+    padding: 1.2rem 0;
 }
 
 /* DOWNLOAD */
