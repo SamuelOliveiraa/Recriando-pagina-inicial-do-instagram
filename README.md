@@ -1,4 +1,4 @@
-# Digital Innovation One - Instagram login 
+# Digital Innovation One - Instagram login page
 
 ![Design preview for the Fylo dark theme landing page challenge](Assets/images/Preview/screenshot-1.png)
 
