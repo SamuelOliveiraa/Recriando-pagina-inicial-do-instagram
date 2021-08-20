@@ -150,6 +150,9 @@ body{
     .instagram-content input{
         width: 77%;
     }
+    .instagram-content .error{
+        width: 77%;
+    }
     .group{
         border: 1px solid transparent;
     }
