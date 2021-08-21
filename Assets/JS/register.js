@@ -83,6 +83,8 @@ function load() {
         }else if(tel.value == ""){
             active(tel, error1, 'rgb(238, 98, 98)', 'block')
 
+        }else if(!isNaN(tel.value) == false){
+            active(tel, error1, 'rgb(238, 98, 98)', 'block')
         }else if(fullName.value == ""){
             active(fullName, error2, 'rgb(238, 98, 98)', 'block')
 
